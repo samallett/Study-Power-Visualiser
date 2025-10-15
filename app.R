@@ -4,7 +4,7 @@ library(ggtext)
 library(stringr)
 
 ui <- fluidPage(
-  # Second change to comment
+  
   titlePanel("Power and Sample Size Tool"),
   
   # Sidebar with a slider input for number of bins 
