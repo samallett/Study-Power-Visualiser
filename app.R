@@ -3,8 +3,6 @@ library(cowplot)
 library(ggtext)
 library(stringr)
 
-# Steve update
-
 ui <- fluidPage(
   
   titlePanel("Power and Sample Size Tool"),
